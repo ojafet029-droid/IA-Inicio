@@ -1,4 +1,5 @@
 # Este proyecto es sobre mis practicas de inteligencia artifical y mis notas
+# MIGUEL
 
 
 ## Archivo 1
